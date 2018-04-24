@@ -26,7 +26,7 @@ SECRET_KEY = 'py*2&q&s*4_^y-h)+#lqnr-!_4ujsy^!=ze3x6!zgi7fznxjd7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['loginexternalrequests200iqapi.herokuapp.com']
 
 
 # Application definition
