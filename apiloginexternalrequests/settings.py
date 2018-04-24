@@ -146,3 +146,5 @@ JWT_AUTH = {
     'JWT_EXPIRATION_DELTA': datetime.timedelta(days=1),
     'JWT_SECRET_KEY': "secret"
 }
+
+django_heroku.settings(locals())
